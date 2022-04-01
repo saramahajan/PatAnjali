@@ -13,5 +13,6 @@ public class StringLengthCount {
 		}
 		System.out.println("Number Of Char"+u);
 	}
+	//Iski Toh Mai Kya Karu Kya Karu Samaj Nahi aata..
 
 }
